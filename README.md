@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👩‍💻 Nicácio Santos</h1>
+<h1 align="center"> 👩‍💻 Nicacio Santos</h1>
 
 <div align="center">
   <br>
